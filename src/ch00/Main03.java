@@ -1,7 +1,7 @@
 package ch00;
 import java.util.*;
 
-public class Main01 {
+public class Main03 {
     public int sol(int[][] board, int[] moves) {
         int answer = 0;
         Stack<Integer> stack = new Stack<>();
@@ -24,7 +24,7 @@ public class Main01 {
     }
 
     public static void main(String[] args) {
-        Main01 T = new Main01();
+        Main03 T = new Main03();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[][] board = new int[n][n];
