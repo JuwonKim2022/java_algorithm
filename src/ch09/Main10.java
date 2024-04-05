@@ -10,6 +10,7 @@ import java.util.*;
  *
  * 3 32
  * 23 87 65 12 57 32 99 81
+ *
  */
 
 class Main10 {
